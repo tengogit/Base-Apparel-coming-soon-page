@@ -20,7 +20,7 @@ body {
     flex-direction: column;
     align-items: center;
     font-family: "Josefin Sans", sans-serif;
-    overflow-y: hidden;
+    overflow-y: auto;
 
 }
 
