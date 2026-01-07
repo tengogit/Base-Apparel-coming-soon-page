@@ -1,0 +1,35 @@
+@media(min-width:768px){
+    .cont{
+        max-width: 768px;
+    }
+    .mobbg{
+        display: none;
+    }
+    .tabbg{
+        display: block;
+    }
+    article{
+        width: 445px;
+        height: 414px;
+        margin: 64px 164px;
+    }
+    h1{
+        font-size: 64px;
+        letter-spacing: 17px;
+        line-height: 110%;
+    }
+    p{
+        margin-top: 32px;
+        width: 445px;
+    }
+    form{
+        width: 445px;
+        margin-top: 32px;
+    }
+    body{
+        overflow-y: auto;
+    }
+    #error{
+        margin-left: -100px;
+    }
+}

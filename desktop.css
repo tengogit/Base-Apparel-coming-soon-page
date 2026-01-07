@@ -1,0 +1,27 @@
+@media(min-width:1440px){
+    body{
+        overflow-y: hidden;
+    }
+    
+    .cont{
+        max-width: 1440px;
+    }
+    .tabbg{
+        display: none;
+    }
+    main{
+        display: grid;
+        grid-template-columns: auto auto;
+    }
+    .desbg{
+        display: block;
+    
+    }
+    article{
+        order: -1;
+        margin-top: 136px;
+    }
+    header img{
+        margin-left: 165px;
+    }
+}
